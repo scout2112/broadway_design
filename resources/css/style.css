@@ -20,11 +20,26 @@ h3 {
   font-weight: bold;
 }
 
-#home {
-  background-image: url("../images/the-flatiron-building.png");
+p {
+  font-size: 14px;
 }
 
-#nav {
+.photo {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+.copyright {
+  font-size: 11px
+}
+
+.nav {
   color: white;
   font-size: 18px;
 }
